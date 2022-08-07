@@ -5,4 +5,4 @@ A genetic search algorithm proof of concept, implemented in a jupyter
 
 This was written in following this tutorial:
 
-https://machinelearningmastery.com/simple-genetic-algorithm-from-scratch-in-python/] 
+https://machinelearningmastery.com/simple-genetic-algorithm-from-scratch-in-python/
